@@ -1,0 +1,22 @@
+Q:How much space does following data types take?
+1.int = 4 bytes
+2.bool = 1 bytes
+3.float = 4 bytes
+
+Q.What is output of this program?
+Voil main(){
+Int a = 4;
+Int b = 5;
+a++;b--;
+cout<<++a<<� �<<b--;
+}
+ANS= 6 4
+
+Q.How many of these can be variable name?
+01PWskills
+_FLOAT
+int
+FLOAT
+You will succed
+ANS = _FLOAT
+FLOAT
